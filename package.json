@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "beautify": "eslint --fix .",
+    "lint": "eslint ."
+  },
   "dependencies": {
     "express": "^4.16.2",
     "next": "^5.0.0",
