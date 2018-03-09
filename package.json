@@ -10,7 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next --hostname=[::1] --dev",
     "beautify": "eslint --fix .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "start": "next start",
+    "build": "next build"
   },
   "dependencies": {
     "express": "^4.16.2",
