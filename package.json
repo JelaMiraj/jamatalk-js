@@ -1,4 +1,11 @@
 {
+  "name": "jamatalk",
+  "description": "Jamatalk is a programming language inspired by Smalltalk, Lisp, Elixir, & Haskell",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Jason Cady <jamamuuga@gmail.com>",
+  "repository": "https://github.com/Jamamuuga/jamatalk-js.git",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node server.js",
